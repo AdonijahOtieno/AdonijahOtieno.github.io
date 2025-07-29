@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mechanical Engineering Projects That Are Data Driven**
 
-- 🌱 I’m currently learning **Python, Power BI, SQL, Pandas, ScieKit Learn**
+- 🌱 I’m currently learning **Python, Power BI, SQL, Pandas, scikit-learn**
 
 - 👯 I’m looking to collaborate on **Data Analysis Projects**
 
